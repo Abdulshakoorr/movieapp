@@ -1,9 +1,8 @@
-
-
+import { BrowserRouter, Router,Route } from "react-router-dom";
 function App() {
   return (
-    <div className="App">
-      <h1>Hello</h1>
+    <div>
+      <h1 className="">Hello</h1>
     </div>
   );
 }
